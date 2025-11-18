@@ -17,4 +17,4 @@ You can keep in touch with us in many ways, from our website, to our Discord. Th
 
 |Website | Discord | GitHub page |
 |----- |-----|-----|
-|[LDD Website](https://logandag.dev) | [Discord](https://discord.gg/CUnF5M8mPX)|[GitHub website](https://logandagdev.github.io/.github/)|
+|[LDD Website](https://logandag.dev) | [Discord](https://discord.gg/CUnF5M8mPX)|[GitHub website](https://github.logandag.dev)|
