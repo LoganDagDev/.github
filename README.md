@@ -41,7 +41,6 @@ Any current project being developed will have security pages as well.
 | --- | --- | --- | --- | --- | --- | ---- | ----- | ---- |
 | [Password check (pass)](https://github.com/loganDag/password_checker) | :x: | :white_check_mark: | :x: | :x: | :x: | :x: | :x: | None |
 | [File System](https://github.com/loganDag/FileSystem/tree/main) | :x: | :x: | :x: | ✅ | :x: | ✅ | :x: | None |
-| [ChristTube](https://github.com/loganDag/ChrisTube/tree/main) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
 | [(L)ogan (D)ag (D)ev (A)ndroid app 1](https://github.com/loganDag/LDDA1) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
 | [Post it! Social media Site](https://github.com/loganDag/Post-It-Social) | :x: | ✅ | :x: | :x: | :x: | ✅ | ✅ | <details><summary>Being replaced</summary>Had a God-given thought, going to completely rework this based off of what is here now, new project is listed below.</details> |
 | [Christian Social Site](https://github.com/loganDag/new-social-site) | :x: | :x: | ✅ | :x: | :x: | :x: | :x: | None |
