@@ -51,6 +51,6 @@ Any current project being developed will have security pages as well.
 
 You can keep in touch with us in many ways, from our website, to our Discord. The *preferred* methods are listed below:
 
-|Website | Discord | Telegram |
-|----- |-----| ----- |
-|[LDD Website](https://logandag.dev) | [Discord](https://discord.gg/CUnF5M8mPX)| [Telegram Channel](https://t.me/LDDtelegram) |
+|Discord | Telegram |
+|-----| ----- |
+| [Discord](https://discord.gg/CUnF5M8mPX)| [Telegram Channel](https://t.me/LDDtelegram) |
