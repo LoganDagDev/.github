@@ -9,7 +9,7 @@ We are an organization focused around Faith in God, helping others, bringing peo
 * Allow a majority of projects be open-source
 * And allow others to communicate in a community of others who are like-minded
 
-We are a small organization with limited resources, we will do the best we can to help others, do as much as we can, and review forks, commits, etc in a timely manner.
+We are a small organization with limited resources, we will do the best we can to help others, do as much as we can, and review forks, commits, etc in a timely manner. This is just for communicty projects and anything that might require a team, my personal projects will be hosted on my personal repository area [Here.](https://github.com/loganDag)
 
 
 ### How to obtain a specific project
